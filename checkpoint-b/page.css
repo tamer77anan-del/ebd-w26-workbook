@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #fdfdfb;
+}
+
+.row {
+  padding: 0.5rem;
+  color: #1a1a1a;
+}
